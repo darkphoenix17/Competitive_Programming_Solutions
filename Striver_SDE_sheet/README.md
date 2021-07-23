@@ -20,8 +20,18 @@ Question Link:
 
 2.3) [Next Permutation](https://leetcode.com/problems/next-permutation/)
 
-2.4) []()
+2.4) [Inversion of Array (Using Merge Sort)](https://practice.geeksforgeeks.org/problems/inversion-of-array-1587115620/1/)
 
 2.5) [Stock Buy and Sell](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 
 2.6) [Rotate Matrix](https://leetcode.com/problems/rotate-image/)
+
+3.1) [Search in a 2D matrix](https://leetcode.com/problems/search-a-2d-matrix/)
+
+3.2) [Pow(X,n)](https://leetcode.com/problems/powx-n/)
+
+3.3) [Majority Element (>N/2 times)](https://leetcode.com/problems/majority-element/)
+
+3.4) [Majority Element (>N/3 times)](https://leetcode.com/problems/majority-element-ii/)
+
+3.5) [Grid Unique Paths](https://leetcode.com/problems/unique-paths/)
