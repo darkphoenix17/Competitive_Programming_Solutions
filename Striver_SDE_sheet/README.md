@@ -35,3 +35,17 @@ Question Link:
 3.4) [Majority Element (>N/3 times)](https://leetcode.com/problems/majority-element-ii/)
 
 3.5) [Grid Unique Paths](https://leetcode.com/problems/unique-paths/)
+
+4.1) [2 Sum problem](https://leetcode.com/problems/two-sum/)
+
+4.2) [4 Sum problem](https://leetcode.com/problems/4sum/)
+
+4.3) [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
+
+4.4) [Largest Subarray with 0 sum](https://practice.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1#)
+
+4.5) [Count number of subarrays with given XOR](https://www.geeksforgeeks.org/count-number-subarrays-given-xor/)
+
+4.6) [Longest substring without repeat](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+
+5.1) []()
