@@ -48,4 +48,16 @@ Question Link:
 
 4.6) [Longest substring without repeat](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 
-5.1) []()
+5.1) [Reverse a LinkedList](https://leetcode.com/problems/reverse-linked-list/)
+
+5.2) [Find middle of LinkedList](https://leetcode.com/problems/middle-of-the-linked-list/)
+
+5.3) [Merge two sorted Linked List](https://leetcode.com/problems/merge-two-sorted-lists/)
+
+5.4) [Remove N-th node from back of LinkedList](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
+
+5.5) [Delete a given Node when a node is given](https://leetcode.com/problems/delete-node-in-a-linked-list/)
+
+5.6) [Add two numbers as LinkedList](https://leetcode.com/problems/add-two-numbers/)
+
+6.1) []()
