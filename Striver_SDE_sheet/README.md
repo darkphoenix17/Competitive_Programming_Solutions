@@ -60,4 +60,17 @@ Question Link:
 
 5.6) [Add two numbers as LinkedList](https://leetcode.com/problems/add-two-numbers/)
 
-6.1) []()
+6.1) [Find intersection point of Y LinkedList](https://leetcode.com/problems/intersection-of-two-linked-lists/)
+
+6.2) [Detect a cycle in Linked List](https://leetcode.com/problems/linked-list-cycle/)
+
+6.3) [Reverse a LinkedList in groups of size k](https://leetcode.com/problems/reverse-nodes-in-k-group/)
+
+6.4) [Check if a LinkedList is palindrome or not](https://leetcode.com/problems/palindrome-linked-list/)
+
+6.5) [Find the starting point of the Loop of LinkedList](https://leetcode.com/problems/linked-list-cycle-ii/)
+
+6.6) [Flattening of a LinkedList](https://practice.geeksforgeeks.org/problems/flattening-a-linked-list/1)
+
+6.7) [Rotate a LinkedList](https://leetcode.com/problems/rotate-list/)
+
