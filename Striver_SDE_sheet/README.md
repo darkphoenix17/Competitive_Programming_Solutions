@@ -74,3 +74,14 @@ Question Link:
 
 6.7) [Rotate a LinkedList](https://leetcode.com/problems/rotate-list/)
 
+7.1) [Clone a Linked List with random and next pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)
+
+7.2) [3 sum](https://leetcode.com/problems/3sum/)
+
+7.3) [Trapping rainwater](https://leetcode.com/problems/trapping-rain-water/)
+
+7.4) [Remove Duplicate from Sorted array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+
+7.5) [Max consecutive ones](https://leetcode.com/problems/max-consecutive-ones/)
+
+8.1) []()
