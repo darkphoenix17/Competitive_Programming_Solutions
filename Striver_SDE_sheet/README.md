@@ -84,4 +84,15 @@ Question Link:
 
 7.5) [Max consecutive ones](https://leetcode.com/problems/max-consecutive-ones/)
 
-8.1) []()
+8.1) [N meeting in one room](https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1)
+
+8.2) [Minimum number of platforms required for a railway](https://practice.geeksforgeeks.org/problems/minimum-platforms-1587115620/1#)
+
+8.3) [Job sequencing Problem](https://practice.geeksforgeeks.org/problems/job-sequencing-problem-1587115620/1#)
+
+8.4) [Fractional Knapsack Problem](https://practice.geeksforgeeks.org/problems/fractional-knapsack-1587115620/1)
+
+8.5) [Greedy algorithm to find minimum number of coins](https://youtu.be/mVg9CfJvayM?list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma)
+
+8.6) [Activity Selection (it is same as N meeting in one room)](https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1)
+
