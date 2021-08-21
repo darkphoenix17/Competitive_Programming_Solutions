@@ -96,3 +96,14 @@ Question Link:
 
 8.6) [Activity Selection (it is same as N meeting in one room)](https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1)
 
+9.1) [Subset Sums](https://practice.geeksforgeeks.org/problems/subset-sums2234/1)
+
+9.2) [Subset-II](https://leetcode.com/problems/subsets-ii/)
+
+9.3) [Combination sum-1](https://leetcode.com/problems/combination-sum/)
+
+9.4) [Combination sum-2](https://leetcode.com/problems/combination-sum-ii/)
+
+9.5) [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)
+
+9.6) [K-th permutation Sequence](https://leetcode.com/problems/permutation-sequence/)
