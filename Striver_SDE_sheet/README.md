@@ -107,3 +107,17 @@ Question Link:
 9.5) [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)
 
 9.6) [K-th permutation Sequence](https://leetcode.com/problems/permutation-sequence/)
+
+10.1) [Print all Permutations of a string/array](https://leetcode.com/problems/permutations/)
+
+10.2) [N queens Problem](https://leetcode.com/problems/n-queens/)
+
+10.3) [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)
+
+10.4) [M coloring Problem](https://practice.geeksforgeeks.org/problems/m-coloring-problem-1587115620/1#)
+
+10.5) [Rat in a Maze](https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1)
+
+
+EXTRAS:
+e.1) [N-Queens II](https://leetcode.com/problems/n-queens-ii/)
