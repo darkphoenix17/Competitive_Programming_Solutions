@@ -118,6 +118,21 @@ Question Link:
 
 10.5) [Rat in a Maze](https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1)
 
+11.1) [N-th root of an integer](https://youtu.be/WjpswYrS2nY?list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma)
+
+11.2) [Matrix Median](https://www.interviewbit.com/problems/matrix-median/)
+
+11.3) [Find the element that appears once in sorted array, and rest element appears twice (Binary search)](https://leetcode.com/problems/single-element-in-a-sorted-array/)
+
+11.4) [Search element in a sorted and rotated array/ find pivot where it is rotated](https://leetcode.com/problems/search-in-rotated-sorted-array/)
+
+11.5) [Median of 2 sorted arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
+
+11.6) [K-th element of two sorted arrays](https://practice.geeksforgeeks.org/problems/k-th-element-of-two-sorted-array1317/1)
+
+11.7) [Allocate Minimum Number of Pages](https://www.interviewbit.com/problems/allocate-books/)
+
+11.8) [Aggressive Cows](https://www.spoj.com/problems/AGGRCOW/)
 
 EXTRAS:
 e.1) [N-Queens II](https://leetcode.com/problems/n-queens-ii/)
