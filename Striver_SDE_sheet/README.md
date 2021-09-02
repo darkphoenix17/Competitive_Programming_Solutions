@@ -146,6 +146,19 @@ Question Link:
 
 12.6) [Find square of a number without using multiplication or division operators](https://www.geeksforgeeks.org/calculate-square-of-a-number-without-using-and-pow/)
 
+13.1) [Implement Stack Using Arrays](https://practice.geeksforgeeks.org/problems/implement-stack-using-array/1)
+
+13.2) [Implement Queue Using Arrays](https://youtu.be/M6GnoUDpqEE?list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma)
+
+13.3) [Implement Stack using Queue (using single queue)](https://leetcode.com/problems/implement-stack-using-queues/)
+
+13.4) [Implement Queue using Stack (0(1) amortised method)](https://leetcode.com/problems/implement-queue-using-stacks/)
+
+13.5) [Check for balanced parentheses](https://leetcode.com/problems/valid-parentheses/)
+
+13.6) [Next Greater Element](https://leetcode.com/problems/next-greater-element-ii/)
+
+13.7) [Sort a stack](https://www.geeksforgeeks.org/sort-a-stack-using-recursion/)
 
 EXTRAS:
 e.1) [N-Queens II](https://leetcode.com/problems/n-queens-ii/)
