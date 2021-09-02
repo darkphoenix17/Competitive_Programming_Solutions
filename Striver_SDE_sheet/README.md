@@ -134,5 +134,20 @@ Question Link:
 
 11.8) [Aggressive Cows](https://www.spoj.com/problems/AGGRCOW/)
 
+12.1) [Check if a number if a power of 2 or not in O(1)](https://practice.geeksforgeeks.org/problems/power-of-2-1587115620/0)
+
+12.2) [Count total set bits](https://practice.geeksforgeeks.org/problems/count-total-set-bits-1587115620/1)
+
+12.3) [Divide Integers without / operator](https://leetcode.com/problems/divide-two-integers/)
+
+12.4) [Power Set](https://practice.geeksforgeeks.org/problems/power-set4302/1)
+
+12.5) [Find MSB in o(1)](https://www.geeksforgeeks.org/find-significant-set-bit-number/)
+
+12.6) [Find square of a number without using multiplication or division operators](https://www.geeksforgeeks.org/calculate-square-of-a-number-without-using-and-pow/)
+
+
 EXTRAS:
 e.1) [N-Queens II](https://leetcode.com/problems/n-queens-ii/)
+
+e.2) [Find Array Given Subset Sums](https://leetcode.com/problems/find-array-given-subset-sums/)
