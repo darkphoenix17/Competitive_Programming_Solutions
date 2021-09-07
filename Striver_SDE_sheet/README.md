@@ -160,6 +160,28 @@ Question Link:
 
 13.7) [Sort a stack](https://www.geeksforgeeks.org/sort-a-stack-using-recursion/)
 
+14.1) [Next Smaller Element](https://www.geeksforgeeks.org/next-smaller-element/)
+
+14.2) [LRU cache (VV. IMP)](https://leetcode.com/problems/lru-cache/)
+
+14.3) [LFU cache(Optional)](https://youtu.be/0PSB9y8ehbk)
+
+14.4) [Largest rectangle in histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)
+
+14.5) [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)
+
+14.6) [Implement Min Stack](https://leetcode.com/problems/min-stack/)
+
+14.7) [Rotten Orange (Using BFS)](https://leetcode.com/problems/rotting-oranges/)
+
+14.8) [Stock Span Problem (Using NGL)](https://practice.geeksforgeeks.org/problems/stock-span-problem-1587115621/1)
+
+14.9) [Find maximum of minimums of every window size](https://practice.geeksforgeeks.org/problems/maximum-of-minimum-for-every-window-size3453/1)
+
+14.10) [The Celebrity Problem](https://practice.geeksforgeeks.org/problems/the-celebrity-problem/1)
+
+
+
 EXTRAS:
 e.1) [N-Queens II](https://leetcode.com/problems/n-queens-ii/)
 
