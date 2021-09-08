@@ -180,7 +180,17 @@ Question Link:
 
 14.10) [The Celebrity Problem](https://practice.geeksforgeeks.org/problems/the-celebrity-problem/1)
 
+15.1) [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)
 
+15.2) [Longest Palindrome in a string](https://leetcode.com/problems/longest-palindromic-substring/)
+
+15.3) [Roman Number to Integer](https://leetcode.com/problems/roman-to-integer/) && [Integer to Roman Number]()https://leetcode.com/problems/integer-to-roman/
+
+15.4) [Implement strStr() (Using Rabin-Karp)](https://leetcode.com/problems/implement-strstr/) -> [Reference](https://www.geeksforgeeks.org/rabin-karp-algorithm-for-pattern-searching/) & [Implement atoi()](https://leetcode.com/problems/string-to-integer-atoi/)
+
+15.5) [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
+
+15.6) [Rabin-Karp(Repeated String Match)](https://leetcode.com/problems/repeated-string-match/)
 
 EXTRAS:
 e.1) [N-Queens II](https://leetcode.com/problems/n-queens-ii/)
