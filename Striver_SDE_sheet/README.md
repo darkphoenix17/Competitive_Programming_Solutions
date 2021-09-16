@@ -192,7 +192,22 @@ Question Link:
 
 15.6) [Rabin-Karp(Repeated String Match)](https://leetcode.com/problems/repeated-string-match/)
 
+16.1) [126B.Password (Z-Function)](https://codeforces.com/problemset/problem/126/B)
+
+16.2) [Prefixes and Suffixes(KMP ALGO)](https://codeforces.com/contest/432/problem/D)
+
+16.3) [Minimum characters needed to be inserted in the beginning to make it palindromic](https://www.interviewbit.com/problems/minimum-characters-required-to-make-a-string-palindromic/)
+
+16.4) [Anagrams Grouping](https://www.interviewbit.com/problems/anagrams/)
+
+16.5) [Count and Say](https://leetcode.com/problems/count-and-say/)
+
+16.6) [Compare version numbers](https://leetcode.com/problems/compare-version-numbers/)
+
+
 EXTRAS:
 e.1) [N-Queens II](https://leetcode.com/problems/n-queens-ii/)
 
 e.2) [Find Array Given Subset Sums](https://leetcode.com/problems/find-array-given-subset-sums/)
+
+e.3) [Longest Happy Prefix](https://leetcode.com/problems/longest-happy-prefix/)
