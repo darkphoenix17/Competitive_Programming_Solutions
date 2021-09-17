@@ -204,6 +204,29 @@ Question Link:
 
 16.6) [Compare version numbers](https://leetcode.com/problems/compare-version-numbers/)
 
+17.1.a) [Inorder Traversal (with recursion)](https://leetcode.com/problems/binary-tree-inorder-traversal/)
+
+17.1.b) [Inorder Traversal (without recursion, using stack)](https://leetcode.com/problems/binary-tree-inorder-traversal/)
+
+17.1.c) [Inorder Traversal (without recursion, without stack, Morris Traversing)](https://leetcode.com/problems/binary-tree-inorder-traversal/)
+
+17.2.a) [Preorder Traversal (with recursion)](https://leetcode.com/problems/binary-tree-preorder-traversal/)
+
+17.2.b) [Preorder Traversal without recursion, using stack)](https://leetcode.com/problems/binary-tree-preorder-traversal/)
+
+17.2.c) [Preorder Traversal (without recursion, without stack, Morris Traversing)](https://leetcode.com/problems/binary-tree-preorder-traversal/)
+
+17.3.a) [Postorder Traversal (with recursion)](https://leetcode.com/problems/binary-tree-postorder-traversal/)
+
+17.3.b) [Postorder Traversal without recursion, using stack)](https://leetcode.com/problems/binary-tree-postorder-traversal/)
+
+17.3.c) [Postorder Traversal (without recursion, without stack, Morris Traversing)](https://leetcode.com/problems/binary-tree-postorder-traversal/)
+
+17.4) [LeftView Of Binary Tree](https://practice.geeksforgeeks.org/problems/left-view-of-binary-tree/1)
+
+17.5) [Bottom View of Binary Tree(Using Queue)](https://practice.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1)
+
+17.6) [Top View of Binary Tree](https://www.hackerrank.com/challenges/tree-top-view/)
 
 EXTRAS:
 e.1) [N-Queens II](https://leetcode.com/problems/n-queens-ii/)
@@ -211,3 +234,5 @@ e.1) [N-Queens II](https://leetcode.com/problems/n-queens-ii/)
 e.2) [Find Array Given Subset Sums](https://leetcode.com/problems/find-array-given-subset-sums/)
 
 e.3) [Longest Happy Prefix](https://leetcode.com/problems/longest-happy-prefix/)
+
+e.4) [RightView Of Binary Tree (Recursive method)](https://leetcode.com/problems/binary-tree-right-side-view/)
