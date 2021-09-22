@@ -228,6 +228,18 @@ Question Link:
 
 17.6) [Top View of Binary Tree](https://www.hackerrank.com/challenges/tree-top-view/)
 
+18.1) [Level order Traversal / Level order traversal in spiral form](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)
+
+18.2) [Height of a Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
+
+18.3) [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)
+
+18.4) [Check if Binary tree is height balanced or not](https://leetcode.com/problems/balanced-binary-tree/)
+
+18.5) [Lowest Common Ancestor(LCA) in Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
+
+18.6) [Check if two trees are identical or not](https://leetcode.com/problems/same-tree/)
+
 EXTRAS:
 e.1) [N-Queens II](https://leetcode.com/problems/n-queens-ii/)
 
