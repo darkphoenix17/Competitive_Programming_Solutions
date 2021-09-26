@@ -1,6 +1,8 @@
 ## SDE List
 
-Question Link:
+### here is the [link](https://docs.google.com/document/d/1SM92efk8oDl8nyVw8NHPnbGexTS9W-1gmTEYfEurLWQ/edit) to the SDE Sheet Questions.
+
+Solution Index with Question Link:
 
 1.1) [Sort an array of 0’s 1’s 2’s without using extra space or sorting algo](https://leetcode.com/problems/sort-colors/)
 
@@ -240,7 +242,20 @@ Question Link:
 
 18.6) [Check if two trees are identical or not](https://leetcode.com/problems/same-tree/)
 
-EXTRAS:
+19.1) [Maximum path sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
+
+19.2) [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
+
+19.3) [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)
+
+19.4) [Symmetric Binary Tree](https://leetcode.com/problems/symmetric-tree/)
+
+19.5) [Flatten Binary Tree to LinkedList](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)
+
+19.6) [Check if Binary Tree is mirror of itself or not](https://leetcode.com/problems/symmetric-tree/)
+
+### EXTRAS:
+
 e.1) [N-Queens II](https://leetcode.com/problems/n-queens-ii/)
 
 e.2) [Find Array Given Subset Sums](https://leetcode.com/problems/find-array-given-subset-sums/)
@@ -248,3 +263,5 @@ e.2) [Find Array Given Subset Sums](https://leetcode.com/problems/find-array-giv
 e.3) [Longest Happy Prefix](https://leetcode.com/problems/longest-happy-prefix/)
 
 e.4) [RightView Of Binary Tree (Recursive method)](https://leetcode.com/problems/binary-tree-right-side-view/)
+
+e.5) [Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/)
