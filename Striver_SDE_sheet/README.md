@@ -254,6 +254,7 @@ Solution Index with Question Link:
 
 19.6) [Check if Binary Tree is mirror of itself or not](https://leetcode.com/problems/symmetric-tree/)
 
+
 ### EXTRAS:
 
 e.1) [N-Queens II](https://leetcode.com/problems/n-queens-ii/)
@@ -265,3 +266,25 @@ e.3) [Longest Happy Prefix](https://leetcode.com/problems/longest-happy-prefix/)
 e.4) [RightView Of Binary Tree (Recursive method)](https://leetcode.com/problems/binary-tree-right-side-view/)
 
 e.5) [Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/)
+
+e.6) [Maximum Number of Points with Cost](https://leetcode.com/problems/maximum-number-of-points-with-cost/)
+
+e.7) [Online games](https://atcoder.jp/contests/abc221/tasks/abc221_d)
+
+e.8) [Reverse Pairs](https://leetcode.com/problems/reverse-pairs/)
+
+e.9) [The Time When the Network Becomes Idle](https://leetcode.com/problems/the-time-when-the-network-becomes-idle/)
+
+e.10) [Kth Smallest Product of Two Sorted Arrays](https://leetcode.com/problems/kth-smallest-product-of-two-sorted-arrays/)
+
+e.11) [Exact Price(Atcoder)](https://atcoder.jp/contests/abc223/tasks/abc223_a)
+
+e.12) [String Shifting(Atcoder)](https://atcoder.jp/contests/abc223/tasks/abc223_b)
+
+e.13) [Doukasen(Atcoder)](https://atcoder.jp/contests/abc223/tasks/abc223_c)
+
+e.14) [Restricted Permutation(Atcoder)](https://atcoder.jp/contests/abc223/tasks/abc223_d)
+
+e.15) [Placing Rectangles(Atcoder)](https://atcoder.jp/contests/abc223/tasks/abc223_e)
+
+e.16) [Dungeon Game](https://leetcode.com/problems/dungeon-game/)
