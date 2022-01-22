@@ -254,6 +254,19 @@ Solution Index with Question Link:
 
 19.6) [Check if Binary Tree is mirror of itself or not](https://leetcode.com/problems/symmetric-tree/)
 
+20.1) [Populate Next Right pointers of Tree](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)
+
+20.2) [Search given Key in BST](https://leetcode.com/problems/search-in-a-binary-search-tree/)
+
+20.3) [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
+
+20.4) [Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)
+
+20.5) [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
+
+20.6) [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
+
+20.7) [Find the inorder predecessor/successor of a given Key in BST](https://practice.geeksforgeeks.org/problems/predecessor-and-successor/)
 
 ### EXTRAS:
 
