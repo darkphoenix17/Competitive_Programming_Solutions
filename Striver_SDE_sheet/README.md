@@ -266,7 +266,23 @@ Solution Index with Question Link:
 
 20.6) [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
 
-20.7) [Find the inorder predecessor/successor of a given Key in BST](https://practice.geeksforgeeks.org/problems/predecessor-and-successor/)
+20.7) [Find the inorder predecessor/successor of a given Key in BST](https://practice.geeksforgeeks.org/problems/predecessor-and-successor/1)
+
+21.1) [Floor in a BST](https://www.codingninjas.com/codestudio/problems/920457)
+
+21.2) [Ceil in a BST](https://www.codingninjas.com/codestudio/problems/920464)
+
+21.3) [Find K-th smallest element in BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
+
+21.4) [Find K-th largest element in BST](https://practice.geeksforgeeks.org/problems/kth-largest-element-in-bst/1)
+
+21.5) [Find a pair with a given sum in BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)
+
+21.6) [BST iterator](https://leetcode.com/problems/binary-search-tree-iterator/)
+
+21.7) [Size of the largest BST in a Binary Tree](https://practice.geeksforgeeks.org/problems/largest-bst/0)
+
+21.8) [Serialize and deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
 
 ### EXTRAS:
 
