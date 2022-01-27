@@ -284,6 +284,18 @@ Solution Index with Question Link:
 
 21.8) [Serialize and deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
 
+22.1) [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)
+
+22.2) [Find median in a stream of running integers](https://leetcode.com/problems/find-median-from-data-stream/)
+
+22.3) [K-th largest element in a stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)
+
+22.4) [Distinct numbers in Window.](https://www.interviewbit.com/problems/distinct-numbers-in-window/)
+
+22.5) [K-th largest element in an unsorted array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
+
+22.6) [Flood-fill Algorithm](https://leetcode.com/problems/flood-fill/)
+
 ### EXTRAS:
 
 e.1) [N-Queens II](https://leetcode.com/problems/n-queens-ii/)
