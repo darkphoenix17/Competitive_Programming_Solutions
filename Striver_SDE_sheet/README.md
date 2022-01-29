@@ -296,6 +296,30 @@ Solution Index with Question Link:
 
 22.6) [Flood-fill Algorithm](https://leetcode.com/problems/flood-fill/)
 
+23.1) [Clone a graph (deep copy)](https://leetcode.com/problems/clone-graph/)
+
+23.2) [DFS](https://practice.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1/)
+
+23.3) [BFS](https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1/)
+
+23.4) [Detect A cycle in Undirected Graph using BFS](https://www.codingninjas.com/codestudio/problems/1062670)
+
+23.5) [Detect A cycle in Undirected Graph using DFS](https://www.codingninjas.com/codestudio/problems/1062670)
+
+23.6) [Detect A cycle in a Directed Graph using DFS](https://www.codingninjas.com/codestudio/problems/1062626)
+
+23.7) [Detect A cycle in a Directed Graph using BFS](https://www.codingninjas.com/codestudio/problems/1062626)
+
+23.8) [Topological Sort BFS](https://practice.geeksforgeeks.org/problems/topological-sort/1/)
+
+23.9) [Topological Sort DFS](https://www.codingninjas.com/codestudio/problems/982938)
+
+23.10) [Number of islands(Do in Grid and Graph Both)](https://leetcode.com/problems/number-of-islands/)
+
+23.11) [Bipartite Check using BFS](https://leetcode.com/problems/is-graph-bipartite/)
+
+23.12) [Bipartite Check using DFS](https://leetcode.com/problems/is-graph-bipartite/)
+
 ### EXTRAS:
 
 e.1) [N-Queens II](https://leetcode.com/problems/n-queens-ii/)
@@ -329,3 +353,7 @@ e.14) [Restricted Permutation(Atcoder)](https://atcoder.jp/contests/abc223/tasks
 e.15) [Placing Rectangles(Atcoder)](https://atcoder.jp/contests/abc223/tasks/abc223_e)
 
 e.16) [Dungeon Game](https://leetcode.com/problems/dungeon-game/)
+
+e.17) [Course Schedule(Finding Cycle in Graph)](https://leetcode.com/problems/course-schedule/)
+
+e.18) [Reordering(Atcoder)](https://atcoder.jp/contests/abc234/tasks/abc234_f)
