@@ -320,6 +320,18 @@ Solution Index with Question Link:
 
 23.12) [Bipartite Check using DFS](https://leetcode.com/problems/is-graph-bipartite/)
 
+24.1) [Strongly Connected Component(using KosaRaju’s algo)](https://www.codingninjas.com/codestudio/problems/985311/)
+
+24.2) [Dijkstra’s Algorithm(Implementation)](https://practice.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1/)
+
+24.3) [Bellman-Ford Algorithm(Implementation)](https://practice.geeksforgeeks.org/problems/distance-from-the-source-bellman-ford-algorithm/0/)
+
+24.4) [Floyd Warshall Algorithm(Implementation)](https://practice.geeksforgeeks.org/problems/implementing-floyd-warshall2042/1/)
+
+24.5) [Minimum Spanning Tree(MST) using Prim’s Algo](https://practice.geeksforgeeks.org/problems/minimum-spanning-tree/1/)
+
+24.6) [Minimum Spanning Tree(MST) using Kruskal's Algorithm](https://practice.geeksforgeeks.org/problems/minimum-spanning-tree/1/)
+
 ### EXTRAS:
 
 e.1) [N-Queens II](https://leetcode.com/problems/n-queens-ii/)
