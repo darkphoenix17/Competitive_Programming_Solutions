@@ -332,6 +332,22 @@ Solution Index with Question Link:
 
 24.6) [Minimum Spanning Tree(MST) using Kruskal's Algorithm](https://practice.geeksforgeeks.org/problems/minimum-spanning-tree/1/)
 
+25.1) [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
+
+25.2) [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
+
+25.3) [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
+
+25.4) [0-1 Knapsack(Ones and Zeroes)](https://leetcode.com/problems/ones-and-zeroes/)
+
+25.5) [Edit Distance](https://leetcode.com/problems/edit-distance/)
+
+25.6) [Maximum Sum Increasing Subsequence](https://practice.geeksforgeeks.org/problems/maximum-sum-increasing-subsequence4749/1/)
+
+25.7) [Matrix Chain Multiplication](https://practice.geeksforgeeks.org/problems/matrix-chain-multiplication0303/1/)
+
+25.8) [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
+
 ### EXTRAS:
 
 e.1) [N-Queens II](https://leetcode.com/problems/n-queens-ii/)
@@ -367,5 +383,3 @@ e.15) [Placing Rectangles(Atcoder)](https://atcoder.jp/contests/abc223/tasks/abc
 e.16) [Dungeon Game](https://leetcode.com/problems/dungeon-game/)
 
 e.17) [Course Schedule(Finding Cycle in Graph)](https://leetcode.com/problems/course-schedule/)
-
-e.18) [Reordering(Atcoder)](https://atcoder.jp/contests/abc234/tasks/abc234_f)
