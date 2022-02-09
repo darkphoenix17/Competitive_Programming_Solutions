@@ -348,6 +348,24 @@ Solution Index with Question Link:
 
 25.8) [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
 
+26.1) [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)
+
+26.2) [Coin Change](https://leetcode.com/problems/coin-change/)
+
+26.3) [Subset Sum](https://practice.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1/)
+
+26.4) [Rod Cutting](https://leetcode.com/problems/minimum-cost-to-cut-a-stick/)
+
+26.5) [Egg Dropping](https://practice.geeksforgeeks.org/problems/egg-dropping-puzzle-1587115620/1/)
+
+26.6) [Word Break](https://practice.geeksforgeeks.org/problems/word-break1352/1/)
+
+26.7) [Palindromic Patitioning](https://practice.geeksforgeeks.org/problems/palindromic-patitioning4845/1/)
+
+26.8) [Job Sequencing Problem](https://practice.geeksforgeeks.org/problems/job-sequencing-problem-1587115620/1/)
+
+26.9) [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)
+
 ### EXTRAS:
 
 e.1) [N-Queens II](https://leetcode.com/problems/n-queens-ii/)
@@ -381,5 +399,3 @@ e.14) [Restricted Permutation(Atcoder)](https://atcoder.jp/contests/abc223/tasks
 e.15) [Placing Rectangles(Atcoder)](https://atcoder.jp/contests/abc223/tasks/abc223_e)
 
 e.16) [Dungeon Game](https://leetcode.com/problems/dungeon-game/)
-
-e.17) [Course Schedule(Finding Cycle in Graph)](https://leetcode.com/problems/course-schedule/)
