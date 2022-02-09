@@ -399,3 +399,37 @@ e.14) [Restricted Permutation(Atcoder)](https://atcoder.jp/contests/abc223/tasks
 e.15) [Placing Rectangles(Atcoder)](https://atcoder.jp/contests/abc223/tasks/abc223_e)
 
 e.16) [Dungeon Game](https://leetcode.com/problems/dungeon-game/)
+
+e.17) [Course Schedule(Finding Cycle in Graph)](https://leetcode.com/problems/course-schedule/)
+
+e.18) [Reordering(Atcoder)](https://atcoder.jp/contests/abc234/tasks/abc234_f)
+
+e.19) [Maximum Number of Non-Overlapping Substrings(Using KosaRaju's Algo)](https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/)
+
+e.20) [Transportation Network(Strongly Connected Components)](https://www.hackerearth.com/practice/algorithms/graphs/strongly-connected-components/practice-problems/algorithm/transportation-network-a3bc571b/)
+
+e.21) [Keep Multiplying Found Values by Two(Weekly Contest 278)](https://leetcode.com/problems/keep-multiplying-found-values-by-two/)
+
+e.22) [All Divisions With the Highest Score of a Binary Array(Weekly Contest 278)](https://leetcode.com/problems/all-divisions-with-the-highest-score-of-a-binary-array/)
+
+e.23) [Find Substring With Given Hash Value(Weekly Contest 278)](https://leetcode.com/problems/find-substring-with-given-hash-value/)
+
+e.24) [A. Bridge and Sheets (Atcoder Regular 134)](https://atcoder.jp/contests/arc134/tasks/arc134_a)
+
+e.25) [B. Reserve or Reverse (Atcoder Regular 134)](https://atcoder.jp/contests/arc134/tasks/arc134_b)
+
+e.26) [Sort Even and Odd Indices Independently(Weekly Contest 279)](https://leetcode.com/contest/weekly-contest-279/problems/sort-even-and-odd-indices-independently/)
+
+e.27) [Smallest Value of the Rearranged Number(Weekly Contest 279)](https://leetcode.com/contest/weekly-contest-279/problems/smallest-value-of-the-rearranged-number/)
+
+e.28) [Design Bitset(Weekly Contest 279)](https://leetcode.com/contest/weekly-contest-279/problems/design-bitset/)
+
+e.29) [Minimum Time to Remove All Cars Containing Illegal Goods(Weekly Contest 279)](https://leetcode.com/contest/weekly-contest-279/problems/minimum-time-to-remove-all-cars-containing-illegal-goods/)
+
+e.30) [Divide a String Into Groups of Size k(Weekly Contest 276)](https://leetcode.com/contest/weekly-contest-276/problems/divide-a-string-into-groups-of-size-k/)
+
+e.31) [Minimum Moves to Reach Target Score(Weekly Contest 276)](https://leetcode.com/contest/weekly-contest-276/problems/minimum-moves-to-reach-target-score/)
+
+e.32) [Solving Questions With Brainpower(Weekly Contest 276)](https://leetcode.com/contest/weekly-contest-276/problems/solving-questions-with-brainpower/)
+
+e.33) [Maximum Running Time of N Computers(Weekly Contest 276)](https://leetcode.com/contest/weekly-contest-276/problems/maximum-running-time-of-n-computers/)
