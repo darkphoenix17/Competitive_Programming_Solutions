@@ -71,6 +71,7 @@ public:
 	}
 };
 
+
 class Solution {
 public:
 	int strStr(string s1, string s2) {
